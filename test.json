@@ -1,6 +1,5 @@
-lst = [
 
-    {
+[ {
         "Brand" :"HP",
         "Qty" :100,
         "Config" :{"CPU" :"I5", "Ram" :"8GB", "HD" :"1TB"},
